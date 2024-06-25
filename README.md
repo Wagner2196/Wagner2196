@@ -30,4 +30,3 @@
 - Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
-[![Wagner Donizete GIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
